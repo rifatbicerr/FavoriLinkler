@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Favori Linkler",
+  "version": "1.0",
+  "description": "S\u0131k kullan\u0131lan sitelere h\u0131zl\u0131 eri\u015fim sa\u011flay\u0131n.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
